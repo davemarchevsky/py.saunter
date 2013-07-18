@@ -21,7 +21,7 @@ setup(
     install_requires = ['pytest>=2.3.5',
                         'pytest-marks>=0.3',
                         'pytest-xdist',
-                        'requests',
+                        'requests>=1.1.0',
                         'selenium>=2.32.0',
                         'browsermob-proxy>=0.4.0',
                         'harpy>=0.2.0'],
